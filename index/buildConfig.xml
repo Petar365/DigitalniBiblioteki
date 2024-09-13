@@ -1,0 +1,49 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">103</metadata>
+<metadata name="buildType">lucene</metadata>
+<metadata name="indexStem">linkinpa</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="buildDate">1726242863</metadata>
+<metadata name="earliestDatestamp">1726242831</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2LuceneSearch">
+<indexStem name="linkinpa" />
+<databaseType name="jdbm" />
+<indexList>
+<index name="text" shortname="TX" />
+<index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
+<index name="Source" shortname="SO" />
+</indexList>
+<defaultIndex shortname="TX" />
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Doc" />
+<defaultDBLevel shortname="Sec" />
+<sortList>
+<sort name="rank" shortname="rank" />
+<sort name="none" shortname="none" />
+</sortList>
+<defaultSort shortname="rank" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+</serviceRack>
+<serviceRack name="GS2LuceneRetrieve">
+<indexStem name="linkinpa" />
+<defaultLevel shortname="Sec" />
+<databaseType name="jdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="linkinpa" />
+<databaseType name="jdbm" />
+<classifierList>
+<classifier name="CL1" content="dc.Subject" metadata="dc.Subject" hfile="" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7878616</Metadata>
+    <Metadata name="Source">09 - Valentine's Day.mp3</Metadata>
+    <Metadata name="SourceFile">MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3</Metadata>
+    <Metadata name="mp3">09 - Valentine's Day</Metadata>
+    <Metadata name="srcurl">MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Valentine's Day</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3</Metadata>
+    <Metadata name="srclinkFile">MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">Valentine's Day</Metadata>
+    <Metadata name="Identifier">HASH01ddbb2945d089c9a1bae680</Metadata>
+    <Metadata name="lastmodified">1726240156</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242838</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH01dd.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDkgLSBWYWxlbnRpbmUncyBEYXk=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

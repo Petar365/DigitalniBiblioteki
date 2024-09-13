@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDIgLSBNZXRlb3JhICgyMDAzKQ==\MDUgLSBIaXQgdGhlIEZsb29y.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">6573516</Metadata>
+    <Metadata name="Source">05 - Hit the Floor.mp3</Metadata>
+    <Metadata name="SourceFile">MDUgLSBIaXQgdGhlIEZsb29y.mp3</Metadata>
+    <Metadata name="mp3">05 - Hit the Floor</Metadata>
+    <Metadata name="srcurl">MDUgLSBIaXQgdGhlIEZsb29y.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Hit The Floor</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDUgLSBIaXQgdGhlIEZsb29y.mp3</Metadata>
+    <Metadata name="srclinkFile">MDUgLSBIaXQgdGhlIEZsb29y.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Meteora</Metadata>
+    <Metadata name="Title">Hit The Floor</Metadata>
+    <Metadata name="Identifier">HASHc4ad1825604652f08a9b65</Metadata>
+    <Metadata name="lastmodified">1726240169</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242835</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHc4ad.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDUgLSBIaXQgdGhlIEZsb29y.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

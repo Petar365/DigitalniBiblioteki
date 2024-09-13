@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDEgLSBIeWJyaWQgVGhlb3J5ICgyMDAwKQ==\MDMgLSBXaXRoIFlvdQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8135827</Metadata>
+    <Metadata name="Source">03 - With You.mp3</Metadata>
+    <Metadata name="SourceFile">MDMgLSBXaXRoIFlvdQ==.mp3</Metadata>
+    <Metadata name="mp3">03 - With You</Metadata>
+    <Metadata name="srcurl">MDMgLSBXaXRoIFlvdQ==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">With You</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDMgLSBXaXRoIFlvdQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDMgLSBXaXRoIFlvdQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Title">With You</Metadata>
+    <Metadata name="Identifier">HASH01bb9fdc926a548723edb214</Metadata>
+    <Metadata name="lastmodified">1726240173</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242831</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH01bb.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDMgLSBXaXRoIFlvdQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

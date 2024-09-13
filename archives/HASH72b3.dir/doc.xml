@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDYgLSBUaGUgSHVudGluZyBQYXJ0eSAoMjAxNCk=\MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">12205801</Metadata>
+    <Metadata name="Source">09 - Mark The Graves.mp3</Metadata>
+    <Metadata name="SourceFile">MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3</Metadata>
+    <Metadata name="mp3">09 - Mark The Graves</Metadata>
+    <Metadata name="srcurl">MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Mark The Graves</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3</Metadata>
+    <Metadata name="srclinkFile">MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | The Hunting Party</Metadata>
+    <Metadata name="Title">Mark The Graves</Metadata>
+    <Metadata name="Identifier">HASH72b3795961a349bd6751c8</Metadata>
+    <Metadata name="lastmodified">1726240135</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242849</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH72b3.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDkgLSBNYXJrIFRoZSBHcmF2ZXM=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

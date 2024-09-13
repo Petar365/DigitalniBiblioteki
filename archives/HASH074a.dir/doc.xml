@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">11601587</Metadata>
+    <Metadata name="Source">05 - Shadow of the Day.mp3</Metadata>
+    <Metadata name="SourceFile">MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3</Metadata>
+    <Metadata name="mp3">05 - Shadow of the Day</Metadata>
+    <Metadata name="srcurl">MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Shadow Of The Day</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">Shadow Of The Day</Metadata>
+    <Metadata name="Identifier">HASH074a74a83a16120861be69</Metadata>
+    <Metadata name="lastmodified">1726240158</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242837</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH074a.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDUgLSBTaGFkb3cgb2YgdGhlIERheQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

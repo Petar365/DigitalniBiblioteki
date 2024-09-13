@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDEgLSBIeWJyaWQgVGhlb3J5ICgyMDAwKQ==\MDUgLSBDcmF3bGluZw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8365573</Metadata>
+    <Metadata name="Source">05 - Crawling.mp3</Metadata>
+    <Metadata name="SourceFile">MDUgLSBDcmF3bGluZw==.mp3</Metadata>
+    <Metadata name="mp3">05 - Crawling</Metadata>
+    <Metadata name="srcurl">MDUgLSBDcmF3bGluZw==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Crawling</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDUgLSBDcmF3bGluZw==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDUgLSBDcmF3bGluZw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Title">Crawling</Metadata>
+    <Metadata name="Identifier">HASH014f4f6946eb2be568305099</Metadata>
+    <Metadata name="lastmodified">1726240172</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242832</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH014f.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDUgLSBDcmF3bGluZw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Albums\01 - Hybrid Theory %282000%29\Hybrid Theory.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">3301</Metadata>
+    <Metadata name="Source">Hybrid Theory.html</Metadata>
+    <Metadata name="SourceFile">Hybrid Theory.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="Title">Linkin Park - Hybrid Theory: Album Overview</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Albums/01 - Hybrid Theory (2000)/Hybrid Theory.html</Metadata>
+    <Metadata name="UTF8URL">http://Albums/01 - Hybrid Theory (2000)/Hybrid Theory.html</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Identifier">HASHc2dabba3df7d12f6428565</Metadata>
+    <Metadata name="lastmodified">1726242500</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242833</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHc2da.dir</Metadata>
+    <Metadata name="gsdlassocfile">hybrid.jpg:image/jpeg:</Metadata>
+  </Description>
+  <Content>
+&lt;table border=&quot;0&quot; cellpadding=&quot;3&quot; height=&quot;100%&quot; width=&quot;100%&quot;&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;20%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+            &lt;p align=&quot;center&quot;&gt;
+                &lt;font size=&quot;4&quot;&gt;&lt;b&gt;Linkin Park - Hybrid Theory: A Defining Album&lt;/b&gt;&lt;/font&gt;
+            &lt;/p&gt;
+            &lt;img src=&quot;_httpdocimg_/hybrid.jpg&quot; alt=&quot;Linkin Park Logo&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; width: 75%; height: 75%&quot;&gt;
+
+        &lt;/td&gt;
+        &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;1&quot; width=&quot;50%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;60%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;60%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+            &lt;p&gt;&lt;b&gt;Album Overview&lt;/b&gt;&lt;/p&gt;
+            &lt;p&gt;Hybrid Theory is the debut studio album by American rock band Linkin Park, released on October 24, 2000, by Warner Bros. Records. Recorded at NRG Recordings in North Hollywood, California, and produced by Don Gilmore, the album's lyrical themes deal with problems lead vocalist Chester Bennington experienced during his adolescence, including drug abuse and the constant fighting and eventual divorce of his parents. Hybrid Theory takes its title from the previous name of the band as well as the concepts of music theory and combining different styles.&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Hybrid Theory&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Linkin Park&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; October 24, 2000&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Genre:&lt;/strong&gt; Nu Metal, Alternative Rock&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Label:&lt;/strong&gt; Warner Bros. Records&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 37:12&lt;/p&gt;
+
+            &lt;p&gt;&lt;b&gt;Original Release&lt;/b&gt;&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;1. Papercut&lt;/li&gt;
+                &lt;li&gt;2. One Step Closer&lt;/li&gt;
+                &lt;li&gt;3. With You&lt;/li&gt;
+                &lt;li&gt;4. Points of Authority&lt;/li&gt;
+                &lt;li&gt;5. Crawling&lt;/li&gt;
+                &lt;li&gt;6. Runaway&lt;/li&gt;
+                &lt;li&gt;7. By Myself&lt;/li&gt;
+                &lt;li&gt;8. In The End&lt;/li&gt;
+                &lt;li&gt;9. A Place for My Head&lt;/li&gt;
+                &lt;li&gt;10. Forgotten&lt;/li&gt;
+                &lt;li&gt;11. Cure for the Itch&lt;/li&gt;
+                &lt;li&gt;12. Pushing Me Away&lt;/li&gt;
+            &lt;/ul&gt;
+
+            &lt;p&gt;&lt;b&gt;Singles from Hybrid Theory&lt;/b&gt;&lt;/p&gt;
+
+            &lt;ul&gt;
+                &lt;li&gt;1. One Step Closer&lt;/li&gt;
+                &lt;li&gt;2. Papercut&lt;/li&gt;
+                &lt;li&gt;3. Crawling&lt;/li&gt;
+                &lt;li&gt;4. In The End&lt;/li&gt;
+            &lt;/ul&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+</Content>
+</Section>
+</Archive>

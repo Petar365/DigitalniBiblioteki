@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDcgLSBPbmUgTW9yZSBMaWdodCAoMjAxNyk=\MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">10208223</Metadata>
+    <Metadata name="Source">09 - One More Light.mp3</Metadata>
+    <Metadata name="SourceFile">MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3</Metadata>
+    <Metadata name="mp3">09 - One More Light</Metadata>
+    <Metadata name="srcurl">MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">One More Light</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | One More Light</Metadata>
+    <Metadata name="Title">One More Light</Metadata>
+    <Metadata name="Identifier">HASHab6ae13f695f41f6222618</Metadata>
+    <Metadata name="lastmodified">1726240128</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242852</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHab6a.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDkgLSBPbmUgTW9yZSBMaWdodA==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

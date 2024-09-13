@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDcgLSBPbmUgTW9yZSBMaWdodCAoMjAxNyk=\MDUgLSBJbnZpc2libGU=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8579217</Metadata>
+    <Metadata name="Source">05 - Invisible.mp3</Metadata>
+    <Metadata name="SourceFile">MDUgLSBJbnZpc2libGU=.mp3</Metadata>
+    <Metadata name="mp3">05 - Invisible</Metadata>
+    <Metadata name="srcurl">MDUgLSBJbnZpc2libGU=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Invisible</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDUgLSBJbnZpc2libGU=.mp3</Metadata>
+    <Metadata name="srclinkFile">MDUgLSBJbnZpc2libGU=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | One More Light</Metadata>
+    <Metadata name="Title">Invisible</Metadata>
+    <Metadata name="Identifier">HASH019fdadafcf14a21b7e02ef1</Metadata>
+    <Metadata name="lastmodified">1726240130</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242851</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH019f.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDUgLSBJbnZpc2libGU=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Subject">Linkin Park |Band Members</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>joe_hahn\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Joe Hahn</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>dave_farrell\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Dave Farrel</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>chester_bennington\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Chester Bennington</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>rob_bourdon\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Rob Bourdon</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>mike_shinoda\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Mike Shinoda</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,102 @@
+u
+Command: C:\Users\Petar\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S C:\Users\Petar\Greenstone3\gs2build\bin\script\incremental-import.pl -gli -language en -site localsite -collectdir C:\Users\Petar\Greenstone3\web\sites\localsite\collect linkinpa 
+import.pl> New files and modified metadata files since last import:
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\Albums\.idea\.gitignore
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\Albums\.idea\Albums.iml
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\Albums\.idea\modules.xml
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\Albums\.idea\workspace.xml
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\imgs\bradd.webp
+import.pl> Files to reindex since last import:
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\brad_delson.html
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\chester_bennington.html
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\dave_farrell.html
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\joe_hahn.html
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\mike_shinoda.html
+import.pl>   C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\rob_bourdon.html
+import.pl> HASH746ee3fd868dc7f0124e57 (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\brad_delson.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HASH2b55bc7ffe98ae10130ce9 (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\chester_bennington.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HASH9a8969cf302554ee731f04 (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\dave_farrell.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HASH014b6c5df0276227de193faf (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\joe_hahn.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HASHa9b75b40795085109b1382 (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\mike_shinoda.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HASH014333d0161fde1203cd918f (C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\import\band_members\rob_bourdon.html) marked to be reindexed on next buildcol.pl
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> 
+import.pl> MetadataXMLPlugin: processing metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> WARNING: No plugin could recognise Albums\.idea\.gitignore
+import.pl> WARNING: No plugin could recognise Albums\.idea\Albums.iml
+import.pl> WARNING: No plugin could recognise Albums\.idea\modules.xml
+import.pl> WARNING: No plugin could recognise Albums\.idea\workspace.xml
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\01 - Hybrid Theory (2000)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\02 - Meteora (2003)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\03 - Minutes To Midnight (2007)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\04 - A Thousand Suns (2010)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\05 - Living Things (2012)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\06 - The Hunting Party (2014)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing Albums\07 - One More Light (2017)\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing band_members\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> HTMLPlugin processing band_members\brad_delson.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\chester_bennington.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\dave_farrell.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\joe_hahn.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\mike_shinoda.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\rob_bourdon.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> 
+import.pl> MetadataXMLPlugin: processing imgs\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> Creating new database table 'greenstone' ...
+import.pl> Document Versioning: Processing HASH014333d0161fde1203cd918f
+import.pl>   Updated version of document from import directory (Index-Status=R)
+import.pl>   => keepold: storing snapshot of previous version in _fldv_history as 'nminus-1'
+import.pl> First time file-level document-version history item stored for C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\HASH0143.dir\_fldv_history
+import.pl> Document Versioning: Processing HASH019fdadafcf14a21b7e02ef1
+import.pl>   Unchanged version of document in 'archives/' (Index-Status=B)
+import.pl>   => no snapshot store needed when in incremental mode
+import.pl> Document Versioning: Processing HASH01e83d234765d39c47707ba0
+import.pl>   Unchanged version of document in 'archives/' (Index-Status=B)
+import.pl>   => no snapshot store needed when in incremental mode
+import.pl> Document Versioning: Processing HASHd57c3980cb37030a5d3e51
+import.pl>   Unchanged version of document in 'archives/' (Index-Status=B)
+import.pl>   => no snapshot store needed when in incremental mode
+import.pl> Document Versioning: Processing HASH01954b7e1982608757e4c02c
+import.pl> No such file or directory
+import.pl> FileUtils::_copyFilesRecursiveGeneral() failed to create directory C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\HASH0195\4b7e1982.dir
+import.pl> Error: Failed to recursively hardlink copy the top-level 'keepold_archives' doc to 'archives'
+import.pl> 
+import.pl> **** A critical error occurred in creating/updating file-level document-version history
+import.pl> **** After determining and correcting the cause of the error, to reset, delete
+import.pl> ****     your 'archives' folder, and move 'archives_keep' back to 'archives'
+import.pl> 
+import.pl> Error: Failed to run: "C:\Users\Petar\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe" -S import.pl -incremental "-gli" "-language" "en" "-site" "localsite" "-collectdir" "C:\Users\Petar\Greenstone3\web\sites\localsite\collect" "linkinpa"
+import.pl> Command failed.
+archives_keepold folder detected. Attempting to restore it as archives...

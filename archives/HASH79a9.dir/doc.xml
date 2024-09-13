@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDIgLSBNZXRlb3JhICgyMDAzKQ==\MTMgLSBOdW1i.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7505358</Metadata>
+    <Metadata name="Source">13 - Numb.mp3</Metadata>
+    <Metadata name="SourceFile">MTMgLSBOdW1i.mp3</Metadata>
+    <Metadata name="mp3">13 - Numb</Metadata>
+    <Metadata name="srcurl">MTMgLSBOdW1i.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Numb</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MTMgLSBOdW1i.mp3</Metadata>
+    <Metadata name="srclinkFile">MTMgLSBOdW1i.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Meteora</Metadata>
+    <Metadata name="Title">Numb</Metadata>
+    <Metadata name="Identifier">HASH79a9fa126f03122e64acc6</Metadata>
+    <Metadata name="lastmodified">1726240163</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242836</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH79a9.dir</Metadata>
+    <Metadata name="gsdlassocfile">MTMgLSBOdW1i.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

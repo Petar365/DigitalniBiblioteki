@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDUgLSBMaXZpbmcgVGhpbmdzICgyMDEyKQ==\MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5891424</Metadata>
+    <Metadata name="Source">04 - LIES GREED MISERY.mp3</Metadata>
+    <Metadata name="SourceFile">MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3</Metadata>
+    <Metadata name="mp3">04 - LIES GREED MISERY</Metadata>
+    <Metadata name="srcurl">MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">LIES GREED MISERY</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="Title">LIES GREED MISERY</Metadata>
+    <Metadata name="Identifier">HASH0163b8429906c29988cbc369</Metadata>
+    <Metadata name="lastmodified">1726240144</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242845</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH0163.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDQgLSBMSUVTIEdSRUVEIE1JU0VSWQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

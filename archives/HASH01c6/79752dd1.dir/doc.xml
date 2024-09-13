@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDYgLSBUaGUgSHVudGluZyBQYXJ0eSAoMjAxNCk=\MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9334421</Metadata>
+    <Metadata name="Source">07 - Until It's Gone.mp3</Metadata>
+    <Metadata name="SourceFile">MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3</Metadata>
+    <Metadata name="mp3">07 - Until It's Gone</Metadata>
+    <Metadata name="srcurl">MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Until It's Gone</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3</Metadata>
+    <Metadata name="srclinkFile">MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | The Hunting Party</Metadata>
+    <Metadata name="Title">Until It's Gone</Metadata>
+    <Metadata name="Identifier">HASH01c679752dd160efa3a777d7</Metadata>
+    <Metadata name="lastmodified">1726240136</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242849</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH01c6/79752dd1.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDcgLSBVbnRpbCBJdCdzIEdvbmU=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

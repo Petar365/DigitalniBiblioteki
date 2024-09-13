@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Albums\04 - A Thousand Suns %282010%29\A Thousand Suns.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">4859</Metadata>
+    <Metadata name="Source">A Thousand Suns.html</Metadata>
+    <Metadata name="SourceFile">A Thousand Suns.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="Title">Linkin Park - A Thousand Suns: Album Overview</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Albums/04 - A Thousand Suns (2010)/A Thousand Suns.html</Metadata>
+    <Metadata name="UTF8URL">http://Albums/04 - A Thousand Suns (2010)/A Thousand Suns.html</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Identifier">HASH014bcb9d1e35204a3969ba56</Metadata>
+    <Metadata name="lastmodified">1726242570</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242844</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH014b.dir</Metadata>
+    <Metadata name="gsdlassocfile">thousand.jpg:image/jpeg:</Metadata>
+  </Description>
+  <Content>
+&lt;table border=&quot;0&quot; cellpadding=&quot;3&quot; height=&quot;100%&quot; width=&quot;100%&quot;&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;20%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+            &lt;p align=&quot;center&quot;&gt;
+                &lt;span style=&quot;font-size: medium; &quot;&gt;&lt;b&gt;Linkin Park - A Thousand Suns: An Experimental Journey&lt;/b&gt;&lt;/span&gt;
+            &lt;/p&gt;
+            &lt;img src=&quot;_httpdocimg_/thousand.jpg&quot; alt=&quot;Linkin Park Logo&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; width: 75%; height: 75%&quot;&gt;
+
+        &lt;/td&gt;
+        &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;1&quot; width=&quot;50%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td height=&quot;60%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+        &lt;td height=&quot;60%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+            &lt;p&gt;&lt;b&gt;Album Overview&lt;/b&gt;&lt;/p&gt;
+            &lt;p&gt;A Thousand Suns is the fourth studio album by American rock band Linkin Park, released on September 8,
+                2010, through Warner Bros. Records. The album was produced by Rick Rubin and Mike Shinoda. A Thousand
+                Suns marked a significant departure from the band's previous sound, embracing a highly experimental and
+                electronic-influenced style.&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; A Thousand Suns&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Linkin Park&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; September 8, 2010&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Genre:&lt;/strong&gt; Alternative Rock, Electronic Rock, Experimental Rock&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Label:&lt;/strong&gt; Warner Bros. Records&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 47:56&lt;/p&gt;
+
+            &lt;p&gt;&lt;b&gt;Tracklist&lt;/b&gt;&lt;/p&gt;
+            &lt;ol&gt;
+                &lt;li&gt;The Requiem&lt;/li&gt;
+                &lt;li&gt;The Radiance&lt;/li&gt;
+                &lt;li&gt;Burning in the Skies&lt;/li&gt;
+                &lt;li&gt;Empty Spaces&lt;/li&gt;
+                &lt;li&gt;When They Come for Me&lt;/li&gt;
+                &lt;li&gt;Robot Boy&lt;/li&gt;
+                &lt;li&gt;Jornada Del Muerto&lt;/li&gt;
+                &lt;li&gt;Waiting for the End&lt;/li&gt;
+                &lt;li&gt;Blackout&lt;/li&gt;
+                &lt;li&gt;Wretches and Kings&lt;/li&gt;
+                &lt;li&gt;Wisdom, Justice, and Love&lt;/li&gt;
+                &lt;li&gt;Iridescent&lt;/li&gt;
+                &lt;li&gt;Fallout&lt;/li&gt;
+                &lt;li&gt;The Catalyst&lt;/li&gt;
+                &lt;li&gt;The Messenger&lt;/li&gt;
+            &lt;/ol&gt;
+
+            &lt;p&gt;&lt;b&gt;Notable Singles&lt;/b&gt;&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;The Catalyst&lt;/li&gt;
+                &lt;li&gt;Waiting for the End&lt;/li&gt;
+                &lt;li&gt;Burning in the Skies&lt;/li&gt;
+                &lt;li&gt;Iridescent&lt;/li&gt;
+            &lt;/ul&gt;
+
+            &lt;p&gt;&lt;b&gt;Impact and Legacy&lt;/b&gt;&lt;/p&gt;
+            &lt;p&gt;A Thousand Suns represented a bold artistic statement for Linkin Park, showcasing their willingness to
+                evolve and take risks with their music. The album is a concept album that explores themes of nuclear
+                warfare, human fears, and personal struggles. It incorporates a wide range of musical styles, including
+                electronic, ambient, and experimental rock.&lt;/p&gt;
+
+            &lt;p&gt;The album received mixed reviews upon release, with some praising its ambition and others criticizing its
+                departure from the band's earlier sound. However, over time, it has gained recognition for its
+                innovative approach and is often considered one of Linkin Park's most artistically daring works.&lt;/p&gt;
+
+            &lt;p&gt;A Thousand Suns is notable for its non-linear structure, with many tracks flowing into each other and
+                featuring interludes with spoken word samples. The album's lead single, &quot;The Catalyst,&quot; showcased the
+                band's new electronic-influenced direction and became a hit on alternative rock charts.&lt;/p&gt;
+
+            &lt;p&gt;While it may have initially divided fans, A Thousand Suns has since been recognized as a pivotal moment
+                in Linkin Park's evolution as artists. It paved the way for their future experimental works and
+                demonstrated their commitment to pushing boundaries in rock music.&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;td height=&quot;60%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+
+</Content>
+</Section>
+</Archive>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDUgLSBMaXZpbmcgVGhpbmdzICgyMDEyKQ==\MDMgLSBCVVJOIElUIERPV04=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9215234</Metadata>
+    <Metadata name="Source">03 - BURN IT DOWN.mp3</Metadata>
+    <Metadata name="SourceFile">MDMgLSBCVVJOIElUIERPV04=.mp3</Metadata>
+    <Metadata name="mp3">03 - BURN IT DOWN</Metadata>
+    <Metadata name="srcurl">MDMgLSBCVVJOIElUIERPV04=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">BURN IT DOWN</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDMgLSBCVVJOIElUIERPV04=.mp3</Metadata>
+    <Metadata name="srclinkFile">MDMgLSBCVVJOIElUIERPV04=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="Title">BURN IT DOWN</Metadata>
+    <Metadata name="Identifier">HASHf54a6bd2edf3448490f517</Metadata>
+    <Metadata name="lastmodified">1726240144</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242845</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHf54a.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDMgLSBCVVJOIElUIERPV04=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

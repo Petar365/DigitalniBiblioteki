@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MTAgLSBJbiBCZXR3ZWVu.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7875791</Metadata>
+    <Metadata name="Source">10 - In Between.mp3</Metadata>
+    <Metadata name="SourceFile">MTAgLSBJbiBCZXR3ZWVu.mp3</Metadata>
+    <Metadata name="mp3">10 - In Between</Metadata>
+    <Metadata name="srcurl">MTAgLSBJbiBCZXR3ZWVu.mp3</Metadata>
+    <Metadata name="ex.id3.Title">In Between</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MTAgLSBJbiBCZXR3ZWVu.mp3</Metadata>
+    <Metadata name="srclinkFile">MTAgLSBJbiBCZXR3ZWVu.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">In Between</Metadata>
+    <Metadata name="Identifier">HASHd3d3b0b5e5d609d54c0654</Metadata>
+    <Metadata name="lastmodified">1726240155</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242839</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHd3d3.dir</Metadata>
+    <Metadata name="gsdlassocfile">MTAgLSBJbiBCZXR3ZWVu.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

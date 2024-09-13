@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\linkin_park.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">5912</Metadata>
+    <Metadata name="Source">linkin_park.html</Metadata>
+    <Metadata name="SourceFile">linkin_park.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="Title">Linkin Park: Discography and Career Overview</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://linkin_park.html</Metadata>
+    <Metadata name="UTF8URL">http://linkin_park.html</Metadata>
+    <Metadata name="dc.Subject">Linkin Park </Metadata>
+    <Metadata name="Identifier">HASH014d1787529bc5372daf9826</Metadata>
+    <Metadata name="lastmodified">1726239033</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242854</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH014d.dir</Metadata>
+    <Metadata name="gsdlassocfile">LPLogo-black.svg.png:image/png:</Metadata>
+  </Description>
+  <Content>
+&lt;table border=&quot;0&quot; cellpadding=&quot;3&quot; height=&quot;100%&quot; width=&quot;100%&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+      &lt;td height=&quot;20%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+        &lt;p align=&quot;center&quot;&gt;
+          &lt;font size=&quot;4&quot;&gt;&lt;b&gt;Linkin Park: A Journey Through Their Discography&lt;/b&gt;&lt;/font&gt;
+        &lt;/p&gt;
+        &lt;img src=&quot;_httpdocimg_/LPLogo-black.svg.png&quot; alt=&quot;Linkin Park Logo&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;  width: 75%; height: 75%&quot;&gt;
+      &lt;/td&gt;
+      &lt;td height=&quot;20%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+      &lt;td height=&quot;1&quot; width=&quot;50%&quot;&gt;&lt;/td&gt;
+      &lt;td height=&quot;1&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td height=&quot;60%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+      &lt;td height=&quot;60%&quot; valign=&quot;top&quot; width=&quot;50%&quot;&gt;
+        &lt;p&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;Linkin Park is an American rock band from Agoura Hills, California. Formed in 1996, the band rose to international fame with their debut album &quot;Hybrid Theory,&quot; which was certified Diamond by the RIAA in 2005. They are known for their fusion of alternative metal, hip hop, and electronic music.&lt;/p&gt;
+
+        &lt;p&gt;&lt;b&gt;Formation and Early Years (1996-1999)&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;Linkin Park was formed by three high school friends: Mike Shinoda, Brad Delson, and Rob Bourdon. They were later joined by Joe Hahn, Dave &quot;Phoenix&quot; Farrell, and vocalist Mark Wakefield. After Wakefield's departure, Chester Bennington was recruited as the lead vocalist, solidifying the classic lineup of the band.&lt;/p&gt;
+
+        &lt;p&gt;&lt;b&gt;Hybrid Theory and Breakthrough (2000-2002)&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;The band's debut album, &quot;Hybrid Theory,&quot; was released on October 24, 2000. The album was a massive success, featuring hits such as &quot;One Step Closer,&quot; &quot;Crawling,&quot; and &quot;In the End.&quot; It became one of the best-selling albums of the decade and established Linkin Park as one of the leading bands in the nu-metal genre.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; October 24, 2000&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Hit Singles:&lt;/strong&gt; &quot;One Step Closer,&quot; &quot;Crawling,&quot; &quot;In the End&quot;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Accolades:&lt;/strong&gt; Diamond certification by the RIAA, Grammy Award for Best Hard Rock Performance for &quot;Crawling&quot;&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;p&gt;&lt;b&gt;Meteora and Continued Success (2003-2004)&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;In 2003, Linkin Park released their second studio album, &quot;Meteora,&quot; which continued the band's success with hits like &quot;Numb,&quot; &quot;Faint,&quot; and &quot;Somewhere I Belong.&quot; The album debuted at number one on the Billboard 200 and solidified Linkin Park's status as one of the most influential bands of the early 2000s.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; March 25, 2003&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Hit Singles:&lt;/strong&gt; &quot;Numb,&quot; &quot;Faint,&quot; &quot;Somewhere I Belong&quot;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Accolades:&lt;/strong&gt; Multiple MTV Awards, American Music Awards&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;p&gt;&lt;b&gt;Musical Evolution (2005-2010)&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;Linkin Park continued to evolve their sound with subsequent albums such as &quot;Minutes to Midnight&quot; (2007) and &quot;A Thousand Suns&quot; (2010). These albums showcased a departure from their nu-metal roots, incorporating more electronic and experimental elements. Despite the changes, the band remained successful, with &quot;Minutes to Midnight&quot; debuting at number one in 16 countries.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Albums:&lt;/strong&gt; &quot;Minutes to Midnight&quot; (2007), &quot;A Thousand Suns&quot; (2010)&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Hit Singles:&lt;/strong&gt; &quot;What I've Done,&quot; &quot;Shadow of the Day,&quot; &quot;The Catalyst&quot;&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;p&gt;&lt;b&gt;Later Years and Legacy (2011-2020)&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;Linkin Park continued to release new music and tour extensively, with albums like &quot;Living Things&quot; (2012), &quot;The Hunting Party&quot; (2014), and &quot;One More Light&quot; (2017). Tragically, the band was deeply affected by the death of lead vocalist Chester Bennington in 2017. Despite this loss, Linkin Park's music continues to inspire and influence artists and fans around the world.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Albums:&lt;/strong&gt; &quot;Living Things&quot; (2012), &quot;The Hunting Party&quot; (2014), &quot;One More Light&quot; (2017)&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Legacy:&lt;/strong&gt; Linkin Park remains one of the most successful and influential rock bands of the 21st century.&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;p&gt;&lt;b&gt;Awards and Accolades&lt;/b&gt;&lt;/p&gt;
+        &lt;p&gt;Linkin Park has received numerous awards throughout their career, including Grammy Awards, American Music Awards, MTV Video Music Awards, and more. Their influence and impact on the music industry are undeniable.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Grammy Awards:&lt;/strong&gt; Best Hard Rock Performance for &quot;Crawling&quot; (2002), Best Rap/Sung Collaboration for &quot;Numb/Encore&quot; with Jay-Z (2006)&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;MTV Video Music Awards:&lt;/strong&gt; Best Rock Video for &quot;In the End&quot; (2002), Best Rock Video for &quot;Somewhere I Belong&quot; (2003)&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;American Music Awards:&lt;/strong&gt; Favorite Alternative Artist (2003, 2004, 2007)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/td&gt;
+      &lt;td height=&quot;60%&quot; width=&quot;25%&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+</Content>
+</Section>
+</Archive>

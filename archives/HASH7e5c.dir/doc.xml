@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDUgLSBMaXZpbmcgVGhpbmdzICgyMDEyKQ==\MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9202703</Metadata>
+    <Metadata name="Source">08 - ROADS UNTRAVELED.mp3</Metadata>
+    <Metadata name="SourceFile">MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3</Metadata>
+    <Metadata name="mp3">08 - ROADS UNTRAVELED</Metadata>
+    <Metadata name="srcurl">MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3</Metadata>
+    <Metadata name="ex.id3.Title">ROADS UNTRAVELED</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3</Metadata>
+    <Metadata name="srclinkFile">MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="Title">ROADS UNTRAVELED</Metadata>
+    <Metadata name="Identifier">HASH7e5c206f0d344926a12337</Metadata>
+    <Metadata name="lastmodified">1726240142</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242846</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH7e5c.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDggLSBST0FEUyBVTlRSQVZFTEVE.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

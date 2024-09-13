@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDUgLSBMaXZpbmcgVGhpbmdzICgyMDEyKQ==\MDcgLSBWSUNUSU1JWkVE.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4260324</Metadata>
+    <Metadata name="Source">07 - VICTIMIZED.mp3</Metadata>
+    <Metadata name="SourceFile">MDcgLSBWSUNUSU1JWkVE.mp3</Metadata>
+    <Metadata name="mp3">07 - VICTIMIZED</Metadata>
+    <Metadata name="srcurl">MDcgLSBWSUNUSU1JWkVE.mp3</Metadata>
+    <Metadata name="ex.id3.Title">VICTIMIZED</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDcgLSBWSUNUSU1JWkVE.mp3</Metadata>
+    <Metadata name="srclinkFile">MDcgLSBWSUNUSU1JWkVE.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="Title">VICTIMIZED</Metadata>
+    <Metadata name="Identifier">HASH016e750a5e9fc996e05c43ce</Metadata>
+    <Metadata name="lastmodified">1726240142</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242846</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH016e.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDcgLSBWSUNUSU1JWkVE.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

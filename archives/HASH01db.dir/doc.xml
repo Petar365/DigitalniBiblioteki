@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDQgLSBBIFRob3VzYW5kIFN1bnMgKDIwMTAp\MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">10134508</Metadata>
+    <Metadata name="Source">03 - Burning In The Skies.mp3</Metadata>
+    <Metadata name="SourceFile">MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3</Metadata>
+    <Metadata name="mp3">03 - Burning In The Skies</Metadata>
+    <Metadata name="srcurl">MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Burning In The Skies</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Title">Burning In The Skies</Metadata>
+    <Metadata name="Identifier">HASH01db0689b6b966ba3924a583</Metadata>
+    <Metadata name="lastmodified">1726240152</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242841</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH01db.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDMgLSBCdXJuaW5nIEluIFRoZSBTa2llcw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

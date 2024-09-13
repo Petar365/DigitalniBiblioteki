@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDcgLSBPbmUgTW9yZSBMaWdodCAoMjAxNyk=\MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9257372</Metadata>
+    <Metadata name="Source">03 - Talking to Myself.mp3</Metadata>
+    <Metadata name="SourceFile">MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3</Metadata>
+    <Metadata name="mp3">03 - Talking to Myself</Metadata>
+    <Metadata name="srcurl">MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">Talking to Myself</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | One More Light</Metadata>
+    <Metadata name="Title">Talking to Myself</Metadata>
+    <Metadata name="Identifier">HASH010bc216dcd6febce0b5416c</Metadata>
+    <Metadata name="lastmodified">1726240131</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242851</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH010b.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDMgLSBUYWxraW5nIHRvIE15c2VsZg==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

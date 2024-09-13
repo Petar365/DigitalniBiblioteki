@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8214314</Metadata>
+    <Metadata name="Source">06 - What I've Done.mp3</Metadata>
+    <Metadata name="SourceFile">MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3</Metadata>
+    <Metadata name="mp3">06 - What I've Done</Metadata>
+    <Metadata name="srcurl">MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">What I've Done</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">What I've Done</Metadata>
+    <Metadata name="Identifier">HASH014fc8482f024a1ec99878aa</Metadata>
+    <Metadata name="lastmodified">1726240158</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242838</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH014f/c8482f02.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDYgLSBXaGF0IEkndmUgRG9uZQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

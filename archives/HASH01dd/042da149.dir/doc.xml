@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDQgLSBBIFRob3VzYW5kIFN1bnMgKDIwMTAp\MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7279889</Metadata>
+    <Metadata name="Source">15 - The Messenger.mp3</Metadata>
+    <Metadata name="SourceFile">MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3</Metadata>
+    <Metadata name="mp3">15 - The Messenger</Metadata>
+    <Metadata name="srcurl">MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3</Metadata>
+    <Metadata name="ex.id3.Title">The Messenger</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3</Metadata>
+    <Metadata name="srclinkFile">MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Title">The Messenger</Metadata>
+    <Metadata name="Identifier">HASH01dd042da149a09b00afe15e</Metadata>
+    <Metadata name="lastmodified">1726240146</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242844</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH01dd/042da149.dir</Metadata>
+    <Metadata name="gsdlassocfile">MTUgLSBUaGUgTWVzc2VuZ2Vy.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

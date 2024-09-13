@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDEgLSBIeWJyaWQgVGhlb3J5ICgyMDAwKQ==\MDggLSBJbiB0aGUgRW5k.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8657024</Metadata>
+    <Metadata name="Source">08 - In the End.mp3</Metadata>
+    <Metadata name="SourceFile">MDggLSBJbiB0aGUgRW5k.mp3</Metadata>
+    <Metadata name="mp3">08 - In the End</Metadata>
+    <Metadata name="srcurl">MDggLSBJbiB0aGUgRW5k.mp3</Metadata>
+    <Metadata name="ex.id3.Title">In The End</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDggLSBJbiB0aGUgRW5k.mp3</Metadata>
+    <Metadata name="srclinkFile">MDggLSBJbiB0aGUgRW5k.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="Title">In The End</Metadata>
+    <Metadata name="Identifier">HASH0135db434a5d2434112ae57f</Metadata>
+    <Metadata name="lastmodified">1726240171</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242832</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH0135.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDggLSBJbiB0aGUgRW5k.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

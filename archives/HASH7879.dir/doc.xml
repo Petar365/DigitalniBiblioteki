@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\linkin_park_discography.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">4779</Metadata>
+    <Metadata name="Source">linkin_park_discography.html</Metadata>
+    <Metadata name="SourceFile">linkin_park_discography.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="Title">Linkin Park Discography</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://linkin_park_discography.html</Metadata>
+    <Metadata name="UTF8URL">http://linkin_park_discography.html</Metadata>
+    <Metadata name="dc.Subject">Linkin Park </Metadata>
+    <Metadata name="Identifier">HASH7879160837fedeb3d14478</Metadata>
+    <Metadata name="lastmodified">1726239033</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242855</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH7879.dir</Metadata>
+  </Description>
+  <Content>
+  &lt;h1&gt;Linkin Park Discography&lt;/h1&gt;
+
+  &lt;h2&gt;Studio Albums&lt;/h2&gt;
+  &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Album Title&lt;/th&gt;
+        &lt;th&gt;Release Date&lt;/th&gt;
+        &lt;th&gt;Label&lt;/th&gt;
+        &lt;th&gt;Notable Tracks&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Hybrid Theory&lt;/td&gt;
+        &lt;td&gt;October 24, 2000&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;In the End&quot;, &quot;Crawling&quot;, &quot;Papercut&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Meteora&lt;/td&gt;
+        &lt;td&gt;March 25, 2003&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Numb&quot;, &quot;Faint&quot;, &quot;Somewhere I Belong&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Minutes to Midnight&lt;/td&gt;
+        &lt;td&gt;May 14, 2007&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;What I've Done&quot;, &quot;Bleed It Out&quot;, &quot;Shadow of the Day&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;A Thousand Suns&lt;/td&gt;
+        &lt;td&gt;September 14, 2010&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;The Catalyst&quot;, &quot;Waiting for the End&quot;, &quot;Burning in the Skies&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Living Things&lt;/td&gt;
+        &lt;td&gt;June 26, 2012&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Burn It Down&quot;, &quot;Lost in the Echo&quot;, &quot;Castle of Glass&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Recharged&lt;/td&gt;
+        &lt;td&gt;October 29, 2013&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;A Light That Never Comes&quot;, &quot;Castle of Glass (M. Shinoda Remix)&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;The Hunting Party&lt;/td&gt;
+        &lt;td&gt;June 17, 2014&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Guilty All the Same&quot;, &quot;Until It's Gone&quot;, &quot;Final Masquerade&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;One More Light&lt;/td&gt;
+        &lt;td&gt;May 19, 2017&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Heavy&quot;, &quot;Good Goodbye&quot;, &quot;One More Light&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;h2&gt;Extended Plays (EPs)&lt;/h2&gt;
+  &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;EP Title&lt;/th&gt;
+        &lt;th&gt;Release Date&lt;/th&gt;
+        &lt;th&gt;Label&lt;/th&gt;
+        &lt;th&gt;Notable Tracks&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Hybrid Theory EP&lt;/td&gt;
+        &lt;td&gt;November 10, 1999&lt;/td&gt;
+        &lt;td&gt;Self-released&lt;/td&gt;
+        &lt;td&gt;&quot;Step Up&quot;, &quot;And One&quot;, &quot;High Voltage&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Reanimation&lt;/td&gt;
+        &lt;td&gt;July 30, 2002&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Pts.OF.Athrty&quot;, &quot;Enth E Nd&quot;, &quot;Get Me Gone&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Lost in the Echo&lt;/td&gt;
+        &lt;td&gt;April 6, 2013&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Lost in the Echo&quot;, &quot;Castle of Glass (M. Shinoda Remix)&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;h2&gt;Live Albums&lt;/h2&gt;
+  &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Album Title&lt;/th&gt;
+        &lt;th&gt;Release Date&lt;/th&gt;
+        &lt;th&gt;Label&lt;/th&gt;
+        &lt;th&gt;Notable Tracks&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Live in Texas&lt;/td&gt;
+        &lt;td&gt;November 18, 2003&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;One Step Closer&quot;, &quot;Papercut&quot;, &quot;A Place for My Head&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Road to Revolution: Live at Milton Keynes&lt;/td&gt;
+        &lt;td&gt;November 24, 2008&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Bleed It Out&quot;, &quot;What I've Done&quot;, &quot;Numb&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Minutes to Midnight: Deluxe Edition&lt;/td&gt;
+        &lt;td&gt;November 6, 2007&lt;/td&gt;
+        &lt;td&gt;Warner Bros.&lt;/td&gt;
+        &lt;td&gt;&quot;Given Up&quot;, &quot;Leave Out All the Rest&quot;, &quot;The Little Things Give You Away&quot;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+
+
+</Content>
+</Section>
+</Archive>

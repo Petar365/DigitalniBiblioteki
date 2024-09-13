@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MTEgLSBJbiBQaWVjZXM=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8726207</Metadata>
+    <Metadata name="Source">11 - In Pieces.mp3</Metadata>
+    <Metadata name="SourceFile">MTEgLSBJbiBQaWVjZXM=.mp3</Metadata>
+    <Metadata name="mp3">11 - In Pieces</Metadata>
+    <Metadata name="srcurl">MTEgLSBJbiBQaWVjZXM=.mp3</Metadata>
+    <Metadata name="ex.id3.Title">In Pieces</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MTEgLSBJbiBQaWVjZXM=.mp3</Metadata>
+    <Metadata name="srclinkFile">MTEgLSBJbiBQaWVjZXM=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">In Pieces</Metadata>
+    <Metadata name="Identifier">HASHdbda2a12748d4d76fe0d5b</Metadata>
+    <Metadata name="lastmodified">1726240154</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242839</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASHdbda.dir</Metadata>
+    <Metadata name="gsdlassocfile">MTEgLSBJbiBQaWVjZXM=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

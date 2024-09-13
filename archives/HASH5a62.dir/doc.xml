@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDUgLSBMaXZpbmcgVGhpbmdzICgyMDEyKQ==\MDIgLSBJTiBNWSBSRU1BSU5T.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8033456</Metadata>
+    <Metadata name="Source">02 - IN MY REMAINS.mp3</Metadata>
+    <Metadata name="SourceFile">MDIgLSBJTiBNWSBSRU1BSU5T.mp3</Metadata>
+    <Metadata name="mp3">02 - IN MY REMAINS</Metadata>
+    <Metadata name="srcurl">MDIgLSBJTiBNWSBSRU1BSU5T.mp3</Metadata>
+    <Metadata name="ex.id3.Title">IN MY REMAINS</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDIgLSBJTiBNWSBSRU1BSU5T.mp3</Metadata>
+    <Metadata name="srclinkFile">MDIgLSBJTiBNWSBSRU1BSU5T.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="Title">IN MY REMAINS</Metadata>
+    <Metadata name="Identifier">HASH5a6285a93dbf0561eb2b22</Metadata>
+    <Metadata name="lastmodified">1726240145</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242845</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH5a62.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDIgLSBJTiBNWSBSRU1BSU5T.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

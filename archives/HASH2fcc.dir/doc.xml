@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxidW1z\MDMgLSBNaW51dGVzIFRvIE1pZG5pZ2h0ICgyMDA3KQ==\MDggLSBObyBNb3JlIFNvcnJvdw==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8873501</Metadata>
+    <Metadata name="Source">08 - No More Sorrow.mp3</Metadata>
+    <Metadata name="SourceFile">MDggLSBObyBNb3JlIFNvcnJvdw==.mp3</Metadata>
+    <Metadata name="mp3">08 - No More Sorrow</Metadata>
+    <Metadata name="srcurl">MDggLSBObyBNb3JlIFNvcnJvdw==.mp3</Metadata>
+    <Metadata name="ex.id3.Title">No More Sorrow</Metadata>
+    <Metadata name="ex.id3.Artist">Linkin Park</Metadata>
+    <Metadata name="ex.id3.Genre">Alternative</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">MDggLSBObyBNb3JlIFNvcnJvdw==.mp3</Metadata>
+    <Metadata name="srclinkFile">MDggLSBObyBNb3JlIFNvcnJvdw==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+    <Metadata name="Title">No More Sorrow</Metadata>
+    <Metadata name="Identifier">HASH2fccaeb29008e118609c40</Metadata>
+    <Metadata name="lastmodified">1726240157</Metadata>
+    <Metadata name="lastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1726242838</Metadata>
+    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="assocfilepath">HASH2fcc.dir</Metadata>
+    <Metadata name="gsdlassocfile">MDggLSBObyBNb3JlIFNvcnJvdw==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

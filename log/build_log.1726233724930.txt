@@ -1,0 +1,220 @@
+s
+Command: C:\Users\Petar\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S C:\Users\Petar\Greenstone3\gs2build\bin\script\full-import.pl -gli -language en -site localsite -collectdir C:\Users\Petar\Greenstone3\web\sites\localsite\collect linkinpa 
+import.pl> Removing current contents of the archives directory...
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> MetadataXMLPlugin: processing metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> 
+import.pl> MetadataXMLPlugin: processing band_members\metadata.xml
+import.pl> MetadataXMLPlugin: writing an entry for this metadata.xml into archiveinf-src.db
+import.pl> HTMLPlugin processing band_members\brad_delson.html
+import.pl> No database table 'greenstone' to append to.  Creating new one
+import.pl> HTMLPlugin processing band_members\chester_bennington.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\dave_farrell.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\joe_hahn.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\mike_shinoda.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing band_members\rob_bourdon.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing linkin_park.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing linkin_park_awards.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing linkin_park_discography.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> HTMLPlugin processing linkin_park_interesting_facts.html
+import.pl> Appending to existing database table 'greenstone' ...
+import.pl> Creating new database table 'greenstone' ...
+import.pl> 
+import.pl> *********************************************
+import.pl> Import complete
+import.pl> *********************************************
+import.pl> * 10 documents were considered for processing
+import.pl> * 10 were processed and included in the collection
+import.pl> Command complete.
+import.pl> Extracting new metadata from archive files.
+import.pl> Archived metadata extraction complete.
+Command: C:\Users\Petar\Greenstone3\gs2build\bin\windows\perl\bin\Perl.exe -S C:\Users\Petar\Greenstone3\gs2build\bin\script\full-buildcol.pl -gli -language en -activate -site localsite -library_name library -collectdir C:\Users\Petar\Greenstone3\web\sites\localsite\collect linkinpa 
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> Full Path:     C:\Users\Petar\Greenstone3\gs2build\bin\script\lucene_passes.pl
+buildcol.pl> Executable:    perl.exe "C:\Users\Petar\Greenstone3\gs2build\bin\script\lucene_passes.pl"
+buildcol.pl> Sections:      Doc
+buildcol.pl> Build Dir:     C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\building
+buildcol.pl> Cmd:           perl.exe "C:\Users\Petar\Greenstone3\gs2build\bin\script\lucene_passes.pl" text Doc "C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\building" "dummy"   
+buildcol.pl> ArchivesInfPlugin: processing C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\archiveinf-doc.jdb
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0143.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014b.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b55.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe218.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH746e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7879.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa9b7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9a89.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01e9.dir\doc.xml
+buildcol.pl> Stats (Compressing text from text)
+buildcol.pl> Total bytes in collection: 43289
+buildcol.pl> Total bytes in text: 54355
+buildcol.pl> 
+buildcol.pl> *** building index text;dc.Title,ex.dc.Title,Title;Source; at level Doc in subdirectory didx
+buildcol.pl> 
+buildcol.pl>     creating index dictionary (lucene_passes -I1)
+buildcol.pl> Cmd: perl.exe "C:\Users\Petar\Greenstone3\gs2build\bin\script\lucene_passes.pl" -removeold index Doc "C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\building" "didx"   
+buildcol.pl> ArchivesInfPlugin: processing C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\archiveinf-doc.jdb
+buildcol.pl> 
+buildcol.pl> -removeold set
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0143.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014b.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b55.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe218.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH746e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7879.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa9b7.dir\doc.xml
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [<File n='HASH9a89.dir\doc.xml'>
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9a89.dir\doc.xml
+buildcol.pl>  Doc: HASH014333d0161fde1203cd918f (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [<File n='HASH01e9.dir\doc.xml'>
+buildcol.pl>  Doc: HASH014b6c5df0276227de193faf (add)GreenstoneXMLPlugin: processing HASH01e9.dir\doc.xml
+buildcol.pl> ]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH2b55bc7ffe98ae10130ce9 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH014d1787529bc5372daf9826 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASHe21884cca1aefcd2665df8 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH746ee3fd868dc7f0124e57 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH7879160837fedeb3d14478 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASHa9b75b40795085109b1382 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH9a8969cf302554ee731f04 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Doc: HASH01e9f3094586ae30edb1a1e6 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Stats (Creating index text;dc.Title,ex.dc.Title,Title;Source;)
+buildcol.pl> Total bytes in collection: 43289
+buildcol.pl> Total bytes in text;dc.Title,ex.dc.Title,Title;Source;: 37019
+buildcol.pl> 
+buildcol.pl> *** building index text;dc.Title,ex.dc.Title,Title;Source; at level Sec in subdirectory sidx
+buildcol.pl> 
+buildcol.pl>     creating index dictionary (lucene_passes -I1)
+buildcol.pl> Cmd: perl.exe "C:\Users\Petar\Greenstone3\gs2build\bin\script\lucene_passes.pl" -removeold index Sec "C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\building" "sidx"   
+buildcol.pl> ArchivesInfPlugin: processing C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\archiveinf-doc.jdb
+buildcol.pl> 
+buildcol.pl> -removeold set
+buildcol.pl> Monitoring for input!
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0143.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014b.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b55.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe218.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH746e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7879.dir\doc.xml
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [<File n='HASHa9b7.dir\doc.xml'>
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa9b7.dir\doc.xml
+buildcol.pl>  Sec: HASH014333d0161fde1203cd918f (add)<File n='HASH9a89.dir\doc.xml'>
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9a89.dir\doc.xml
+buildcol.pl> ]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [<File n='HASH01e9.dir\doc.xml'>
+buildcol.pl>  Sec: HASH014b6c5df0276227de193faf (add)GreenstoneXMLPlugin: processing HASH01e9.dir\doc.xml
+buildcol.pl> ]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH2b55bc7ffe98ae10130ce9 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH014d1787529bc5372daf9826 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASHe21884cca1aefcd2665df8 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH746ee3fd868dc7f0124e57 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH7879160837fedeb3d14478 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASHa9b75b40795085109b1382 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH9a8969cf302554ee731f04 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Starting to process <xml doc on stdin> ...
+buildcol.pl> [ Sec: HASH01e9f3094586ae30edb1a1e6 (add)]
+buildcol.pl> ... processing finished.
+buildcol.pl> Stats (Creating index text;dc.Title,ex.dc.Title,Title;Source;)
+buildcol.pl> Total bytes in collection: 43289
+buildcol.pl> Total bytes in text;dc.Title,ex.dc.Title,Title;Source;: 37019
+buildcol.pl> BuildDir: C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\building
+buildcol.pl> 
+buildcol.pl> *** creating the info database and processing associated files
+buildcol.pl> ArchivesInfPlugin: processing C:\Users\Petar\Greenstone3\web\sites\localsite\collect\linkinpa\archives\archiveinf-doc.jdb
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> GreenstoneXMLPlugin: processing HASH0143.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014b.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH2b55.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH014d.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHe218.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH746e.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH7879.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASHa9b7.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH9a89.dir\doc.xml
+buildcol.pl> GreenstoneXMLPlugin: processing HASH01e9.dir\doc.xml
+buildcol.pl> 
+buildcol.pl> Outputting information for classifier: CL1
+buildcol.pl> Outputting information for classifier: CL2
+buildcol.pl> 
+buildcol.pl> *** creating auxiliary files 
+buildcol.pl> Appending to existing database table 'greenstone' ...
+buildcol.pl> Creating new database table 'greenstone' ...
+buildcol.pl> Copying rss-items.rdf file from 'archives' to 'building'
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Running  Collection  Activation  Stage
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if Greenstone server is persistent
+buildcol.pl> Checking if the collection linkinpa is already active
+buildcol.pl> De-activating collection linkinpa
+buildcol.pl> 	- Main library servlet
+buildcol.pl> 	- OAI servlet
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Removing "index"
+buildcol.pl> ************************
+buildcol.pl> 
+buildcol.pl> ************************
+buildcol.pl> * Moving "building" -> "index"
+buildcol.pl> ************************
+buildcol.pl> Pinging http://127.0.0.1:8383/greenstone3/library
+buildcol.pl> Checking if the collection linkinpa is not already active
+buildcol.pl>  Collection is not active.
+buildcol.pl> Activating collection linkinpa
+buildcol.pl> 	- Main library servlet
+buildcol.pl> 	- OAI servlet
+buildcol.pl> 
+buildcol.pl> Command complete.
