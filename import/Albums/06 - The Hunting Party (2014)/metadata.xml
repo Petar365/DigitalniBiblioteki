@@ -4,7 +4,119 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | The Hunting Party</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 06 The Hunting Party</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2014-06-17</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">Larrabee</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">EastWest</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">GlenWood Place</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Mike Shinoda</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Brad Delson</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>The Hunting Party\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Hunting Party</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - Keys To The Kingdon\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Keys To The Kingdom</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - All For Nothing Feat\. Page Hamilton\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">All For Nothing </Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - Guilty All The Same Feat\. Rakim\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Guilty All The Same</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - The Summoning\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Summoning</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - War\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">War</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - Wastelands\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Wastelands</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - Until It's Gone\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Until It's Gone</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - Rebellion Feat\. Daron Malakian\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Rebelion</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - Mark The Graves\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Mark The Grave</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - Drawbar Feat\. Tom Morello\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Drawbar</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - Final Masquerade\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Final Masquarade</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - A Line In The Sand\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">A Line in The Sand</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

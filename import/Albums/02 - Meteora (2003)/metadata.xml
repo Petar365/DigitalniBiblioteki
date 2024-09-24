@@ -4,7 +4,125 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | Meteora</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 02 Meteora</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2003-03-25</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">NRG Recording Studions</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">SoundTrack Studios</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Don Gilmore</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Meteora\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Meteora</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - Foreword\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Fireword</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - Don't Stay\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Don't Stay</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - Somewhere I Belong\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Somewhere i Belong</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - Lying from You\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Lying From Tou</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - Hit the Floor\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Hit the Floor</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - Easier to Run\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Easier to Run</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - Faint\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Faint</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - Figure\.09\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Figure.09</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - Breaking the Habit\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Breaking The habit</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - From the Inside\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">From the Inside</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - Nobody's Listening\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Nobody's Listening</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - Session\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Session</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>13 - Numb\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">14</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">14</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Numb</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

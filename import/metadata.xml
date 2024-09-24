@@ -34,25 +34,37 @@
 	<FileSet>
 		<FileName>linkin_park\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Linkin Park: Discography and Career Overview</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>linkin_park_awards\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Linkin Park Awards and Accolades</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>linkin_park_discography\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Linkin Park Discography</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>linkin_park_interesting_facts\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park </Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Interesting Facts About Linkin Park</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

@@ -16,12 +16,15 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://linkin_park.html</Metadata>
     <Metadata name="UTF8URL">http://linkin_park.html</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
     <Metadata name="dc.Subject">Linkin Park </Metadata>
+    <Metadata name="dc.Title">Linkin Park: Discography and Career Overview</Metadata>
     <Metadata name="Identifier">HASH014d1787529bc5372daf9826</Metadata>
     <Metadata name="lastmodified">1726239033</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242854</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136628</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH014d.dir</Metadata>
     <Metadata name="gsdlassocfile">LPLogo-black.svg.png:image/png:</Metadata>
   </Description>

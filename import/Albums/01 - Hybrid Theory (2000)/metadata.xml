@@ -4,7 +4,116 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 01 Hybrid Theory</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2000-10-24</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">NRG Recording Studions</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Don Gilmore</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Hybrid Theory\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Hybrid Theory</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - Papercut\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Papercut</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - One Step Closer\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">One Step Closer</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - With You\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">With You</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - Points of Authority\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Points of Authority</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - Crawling\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Crawling</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - Runaway\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Runaway</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - By Myself\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">By Myself</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - In the End\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">In The end</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - A Place for My Head\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">A Place For My Head</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - Forgotten\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Forgotten</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - Cure for the Itch\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Cure For the Itch</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - Pushing Me Away\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Pushing Me Away</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

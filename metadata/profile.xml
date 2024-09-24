@@ -4,4 +4,15 @@
 <!ATTLIST Action source CDATA #REQUIRED>
 <!ATTLIST Action target CDATA ''>
 ]>
-<Profiles/>
+<Profiles>
+	<Action source="dc.Subject" target="gs.usercomment"/>
+	<Action source="dc.Creator" target="gs.usercomment"/>
+	<Action source="dc.Date" target="gs.Date"/>
+	<Action source="dc.Publisher" target="gs.Publisher"/>
+	<Action source="dc.Studio" target="gs.Studio"/>
+	<Action source="dc.Producer" target="gs.Producer"/>
+	<Action source="dc.FolderOrder" target="gs.FolderOrder"/>
+	<Action source="dc.Order" target=""/>
+	<Action source="dc.Title" target=""/>
+	<Action source="dc.Description" target="gs.usercomment"/>
+</Profiles>

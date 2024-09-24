@@ -4,7 +4,157 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 04 A Thousand Suns</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2010-09-13</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">NRG Recording Studions</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Rick Rubin</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Mike Shinoda</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - The Requiem\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">2</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Requiem</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - The Radiance\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">3</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Radiance</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - Burning In The Skies\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">4</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Burning in the Skies</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - Empty Spaces\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">5</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Empty Spaces</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - When They Come For Me\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">6</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">When They Come For Me</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - Robot Boy\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">7</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Roboy Boy</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - Jornada Del Muerto\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">8</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Jornada Del Muerto</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - Waiting For The End\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">9</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Waiting For The End</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - Blackout\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">10</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Blackout</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - Wretches And Kings\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">11</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Wretches And Kings</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - Wisdom, Justice, And Love\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">12</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Wisdom, Justice, And Love</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - Iridescent\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">13</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Iridescent</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>13 - Fallout\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">14</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">14</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">14</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Fallout</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>14 - The Catalyst\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">15</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">15</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">15</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The catalyst</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>15 - The Messenger\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">16</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">16</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">16</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Messenger</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>A Thousand Suns\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.usercomment">1</Metadata>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">A Thousand Suns</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

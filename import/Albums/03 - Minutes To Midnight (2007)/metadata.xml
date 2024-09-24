@@ -4,7 +4,118 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums |Minutes To Midnight</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums |03 Minutes To Midnight</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2007-05-14</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">The Manison</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">NRG Recording Studions</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Rick Rubin</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Mike Shinoda</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Minutes To Midnight\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Minutes To Midnight</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - Wake\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Wake</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - Given Up\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Given Up</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - Leave Out All the Rest\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Leave Out All the Rest</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - Bleed it Out\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Bleed it Out</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - Shadow of the Day\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Shadow of the Day</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - What I've Done\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">What i've Done</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - Hands Held High\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Hands Held High</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - No More Sorrow\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">No More Sorrow</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - Valentine's Day\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Valentine's Day</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - In Between\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">In between</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - In Pieces\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">In Piece</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - The Little Things Give You Away\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Little Things Give You Away</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

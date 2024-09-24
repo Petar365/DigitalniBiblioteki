@@ -16,12 +16,22 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://Albums/04 - A Thousand Suns (2010)/A Thousand Suns.html</Metadata>
     <Metadata name="UTF8URL">http://Albums/04 - A Thousand Suns (2010)/A Thousand Suns.html</Metadata>
-    <Metadata name="dc.Subject">Linkin Park | Albums | A Thousand Suns</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Date">2010-09-13</Metadata>
+    <Metadata name="dc.Description">1</Metadata>
+    <Metadata name="dc.FolderOrder">1</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
+    <Metadata name="dc.Producer">Rick Rubin</Metadata>
+    <Metadata name="dc.Producer">Mike Shinoda</Metadata>
+    <Metadata name="dc.Publisher">Warner Bros. Records</Metadata>
+    <Metadata name="dc.Studio">NRG Recording Studions</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | 04 A Thousand Suns</Metadata>
+    <Metadata name="dc.Title">A Thousand Suns</Metadata>
     <Metadata name="Identifier">HASH014bcb9d1e35204a3969ba56</Metadata>
     <Metadata name="lastmodified">1726242570</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242844</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136617</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH014b.dir</Metadata>
     <Metadata name="gsdlassocfile">thousand.jpg:image/jpeg:</Metadata>
   </Description>

@@ -4,8 +4,8 @@
 <metadata name="buildType">lucene</metadata>
 <metadata name="indexStem">linkinpa</metadata>
 <metadata name="infodbType">jdbm</metadata>
-<metadata name="buildDate">1726242863</metadata>
-<metadata name="earliestDatestamp">1726242831</metadata>
+<metadata name="buildDate">1727136636</metadata>
+<metadata name="earliestDatestamp">1727136605</metadata>
 </metadataList>
 <serviceRackList>
 <serviceRack name="GS2LuceneSearch">
@@ -13,8 +13,7 @@
 <databaseType name="jdbm" />
 <indexList>
 <index name="text" shortname="TX" />
-<index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
-<index name="Source" shortname="SO" />
+<index name="dc.Title,Title" shortname="TI" />
 </indexList>
 <defaultIndex shortname="TX" />
 <levelList>
@@ -43,6 +42,9 @@
 <databaseType name="jdbm" />
 <classifierList>
 <classifier name="CL1" content="dc.Subject" metadata="dc.Subject" hfile="" />
+<classifier name="CL2" content="dc.Date" metadata="dc.Date" hfile="" />
+<classifier name="CL3" content="dc.Studio" metadata="dc.Studio" hfile="" />
+<classifier name="CL4" content="dc.Producer" metadata="dc.Producer" hfile="" />
 </classifierList>
 </serviceRack>
 </serviceRackList>

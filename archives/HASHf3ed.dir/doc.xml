@@ -16,12 +16,21 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://Albums/05 - Living Things (2012)/Living Things.html</Metadata>
     <Metadata name="UTF8URL">http://Albums/05 - Living Things (2012)/Living Things.html</Metadata>
-    <Metadata name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Date">2012-06-20</Metadata>
+    <Metadata name="dc.FolderOrder">1</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
+    <Metadata name="dc.Producer">Rick Rubin</Metadata>
+    <Metadata name="dc.Producer">Mike Shinoda</Metadata>
+    <Metadata name="dc.Publisher">Warner Bros. Records</Metadata>
+    <Metadata name="dc.Studio">NRG Recording Studions</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | 05 Living Things</Metadata>
+    <Metadata name="dc.Title">Living Things</Metadata>
     <Metadata name="Identifier">HASHf3ed4f90b1457edb7c1ea7</Metadata>
     <Metadata name="lastmodified">1726242574</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242847</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136620</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASHf3ed.dir</Metadata>
     <Metadata name="gsdlassocfile">living.jpg:image/jpeg:</Metadata>
   </Description>

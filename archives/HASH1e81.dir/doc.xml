@@ -16,12 +16,23 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://Albums/06 - The Hunting Party (2014)/The Hunting Party.html</Metadata>
     <Metadata name="UTF8URL">http://Albums/06 - The Hunting Party (2014)/The Hunting Party.html</Metadata>
-    <Metadata name="dc.Subject">Linkin Park | Albums | The Hunting Party</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Date">2014-06-17</Metadata>
+    <Metadata name="dc.FolderOrder">1</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
+    <Metadata name="dc.Producer">Mike Shinoda</Metadata>
+    <Metadata name="dc.Producer">Brad Delson</Metadata>
+    <Metadata name="dc.Publisher">Warner Bros. Records</Metadata>
+    <Metadata name="dc.Studio">Larrabee</Metadata>
+    <Metadata name="dc.Studio">EastWest</Metadata>
+    <Metadata name="dc.Studio">GlenWood Place</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | 06 The Hunting Party</Metadata>
+    <Metadata name="dc.Title">The Hunting Party</Metadata>
     <Metadata name="Identifier">HASH1e81b86092d7aa96fbda8d</Metadata>
     <Metadata name="lastmodified">1726242588</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242850</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136623</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH1e81.dir</Metadata>
     <Metadata name="gsdlassocfile">hunting.jpg:image/jpeg:</Metadata>
   </Description>

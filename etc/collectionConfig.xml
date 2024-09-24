@@ -44,13 +44,10 @@ modify the collection description template to output the "this collection contai
 		</format>
 	<search type="lucene">
 		<index name="text">
-			<displayItem lang="en" name="name">text</displayItem>
+			<displayItem lang="en" name="name">Text</displayItem>
 		</index>
-		<index name="dc.Title,ex.dc.Title,Title">
-			<displayItem lang="en" name="name">titles</displayItem>
-		</index>
-		<index name="Source">
-			<displayItem lang="en" name="name">filenames</displayItem>
+		<index name="dc.Title,Title">
+			<displayItem lang="en" name="name">Title</displayItem>
 		</index>
 		<defaultIndex name="text"/>
 		<level name="document">
@@ -119,6 +116,16 @@ modify the collection description template to output the "this collection contai
 	<browse>
 		<classifier name="Hierarchy">
 			<option name="-metadata" value="dc.Subject"/>
+			<option name="-sort" value="dc.Order"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="dc.Date"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="dc.Studio"/>
+		</classifier>
+		<classifier name="Hierarchy">
+			<option name="-metadata" value="dc.Producer"/>
 		</classifier>
 		<format>
 			<gsf:template match="documentNode">
@@ -181,52 +188,50 @@ Overwriting this template allows you to change the heading of the document.
 -->
 <!--
 <gsf:template name="documentHeading">
-				<span style="font-weight:bold; font-size: 120%;">
-					<xsl:call-template name="choose-title"/>
-				</span>
-			</gsf:template>
+<span style="font-weight:bold; font-size: 120%;">
+<xsl:call-template name="choose-title"/>
+</span>
+</gsf:template>
 -->
 <!--
-Overwriting this template can be used to redefine the content of the whole document. 
-				This is useful for simple documents, but not recommended for more complex documents
-				(e.g. hierachical and paged documents) as it can prevent any sub-sections from showing.
+Overwriting this template can be used to redefine the content of the whole document. This is useful for simple documents, but not recommended for more complex documents (e.g. hierachical and paged documents) as it can prevent any sub-sections from showing.
 -->
 <!--
 <gsf:template name="documentContent">
-			  <div id="gs-document">
-			    <xsl:call-template name="documentPre"/>
-			    <xsl:call-template name="wrappedSectionImage"/>
-			    <div id="gs-document-text">
-				<xsl:call-template name="documentNodeText"/>
-			    </div>
-		          </div>			
-			</gsf:template>
+<div id="gs-document">
+<xsl:call-template name="documentPre"/>
+<xsl:call-template name="wrappedSectionImage"/>
+<div id="gs-document-text">
+<xsl:call-template name="documentNodeText"/>
+</div>
+</div>
+</gsf:template>
 -->
 <!--
 Overwriting this template can be used to change the content of section headings.
 -->
 <!--
 <gsf:template name="sectionHeading">
-				<xsl:call-template name="choose-title"/>
-			</gsf:template>
+<xsl:call-template name="choose-title"/>
+</gsf:template>
 -->
 <!--
 Overwriting this template can be used to change the content of the top-level section.
 -->
 <!--
 <gsf:template name="topLevelSectionContent">
-				<xsl:call-template name="wrappedSectionImage"/>
-				<xsl:call-template name="wrappedSectionText"/>
-			</gsf:template>
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
 -->
 <!--
 Overwriting this template can be used to change the content of sections.
 -->
 <!--
 <gsf:template name="sectionContent">
-				<xsl:call-template name="wrappedSectionImage"/>
-				<xsl:call-template name="wrappedSectionText"/>
-			</gsf:template>
+<xsl:call-template name="wrappedSectionImage"/>
+<xsl:call-template name="wrappedSectionText"/>
+</gsf:template>
 -->
 		</format>
 	</display>

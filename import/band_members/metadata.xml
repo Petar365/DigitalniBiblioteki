@@ -4,42 +4,55 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park |Band Members</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park |Band Members</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>joe_hahn\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
 			<Metadata mode="accumulate" name="dc.Title">Joe Hahn</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>dave_farrell\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
 			<Metadata mode="accumulate" name="dc.Title">Dave Farrel</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>chester_bennington\.html</FileName>
 		<Description>
 			<Metadata mode="accumulate" name="dc.Title">Chester Bennington</Metadata>
-			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>rob_bourdon\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
 			<Metadata mode="accumulate" name="dc.Title">Rob Bourdon</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
 		</Description>
 	</FileSet>
 	<FileSet>
 		<FileName>mike_shinoda\.html</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Creator">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
 			<Metadata mode="accumulate" name="dc.Title">Mike Shinoda</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>brad_delson\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Brad Delson</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

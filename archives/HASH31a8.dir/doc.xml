@@ -16,12 +16,24 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://Albums/07 - One More Light (2017)/One More Light.html</Metadata>
     <Metadata name="UTF8URL">http://Albums/07 - One More Light (2017)/One More Light.html</Metadata>
-    <Metadata name="dc.Subject">Linkin Park | Albums | One More Light</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Date">2017-05-19</Metadata>
+    <Metadata name="dc.FolderOrder">1</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
+    <Metadata name="dc.Producer">Mike Shinoda</Metadata>
+    <Metadata name="dc.Producer">Brad Delson</Metadata>
+    <Metadata name="dc.Publisher">Warner Bros. Records</Metadata>
+    <Metadata name="dc.Studio">Larrabee</Metadata>
+    <Metadata name="dc.Studio">The Pool Recording Studio</Metadata>
+    <Metadata name="dc.Studio">Sphere</Metadata>
+    <Metadata name="dc.Studio">The WareHouse</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | 07 One More Light</Metadata>
+    <Metadata name="dc.Title">One More Light</Metadata>
     <Metadata name="Identifier">HASH31a8affe77ca4af141f60e</Metadata>
     <Metadata name="lastmodified">1726242592</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242853</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136626</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH31a8.dir</Metadata>
     <Metadata name="gsdlassocfile">Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg:image/jpeg:</Metadata>
   </Description>

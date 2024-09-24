@@ -16,12 +16,21 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://Albums/02 - Meteora (2003)/Meteora.html</Metadata>
     <Metadata name="UTF8URL">http://Albums/02 - Meteora (2003)/Meteora.html</Metadata>
-    <Metadata name="dc.Subject">Linkin Park | Albums | Meteora</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Date">2003-03-25</Metadata>
+    <Metadata name="dc.FolderOrder">1</Metadata>
+    <Metadata name="dc.Order">1</Metadata>
+    <Metadata name="dc.Producer">Don Gilmore</Metadata>
+    <Metadata name="dc.Publisher">Warner Bros. Records</Metadata>
+    <Metadata name="dc.Studio">NRG Recording Studions</Metadata>
+    <Metadata name="dc.Studio">SoundTrack Studios</Metadata>
+    <Metadata name="dc.Subject">Linkin Park | Albums | 02 Meteora</Metadata>
+    <Metadata name="dc.Title">Meteora</Metadata>
     <Metadata name="Identifier">HASH018d64d8c377dcdbb61ddc2d</Metadata>
     <Metadata name="lastmodified">1726242559</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242836</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136610</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH018d.dir</Metadata>
     <Metadata name="gsdlassocfile">meteora.jpg:image/jpeg:</Metadata>
   </Description>

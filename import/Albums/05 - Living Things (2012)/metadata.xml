@@ -4,7 +4,117 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | Living Things</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 05 Living Things</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2012-06-20</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">NRG Recording Studions</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Rick Rubin</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Mike Shinoda</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Living Things\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Living Things</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - LOST IN THE ECHO\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Lost in The Echo</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - IN MY REMAINS\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">In My Remains</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - BURN IT DOWN\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Burn it Down</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - LIES GREED MISERY\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Lies Greed Misery</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - I'LL BE GONE\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">I'll Be Gone</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - CASTLE OF GLASS\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Castle of Glass</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - VICTIMIZED\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Vicitimiezed</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - ROADS UNTRAVELED\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Roads Untraveled</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - SKIN TO BONE\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">19</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Skin To Bone</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - UNTIL IT BREAKS\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Until it Breaks</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>11 - TINFOIL\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">12</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Tinfoil</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>12 - POWERLESS\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">13</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Powerless</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>

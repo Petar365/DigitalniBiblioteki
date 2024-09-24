@@ -16,12 +16,15 @@
     <Metadata name="FileFormat">HTML</Metadata>
     <Metadata name="URL">http://band_members/brad_delson.html</Metadata>
     <Metadata name="UTF8URL">http://band_members/brad_delson.html</Metadata>
+    <Metadata name="dc.Creator">Petar Milchevski</Metadata>
+    <Metadata name="dc.Order">4</Metadata>
     <Metadata name="dc.Subject">Linkin Park |Band Members</Metadata>
+    <Metadata name="dc.Title">Brad Delson</Metadata>
     <Metadata name="Identifier">HASH746ee3fd868dc7f0124e57</Metadata>
     <Metadata name="lastmodified">1726242806</Metadata>
     <Metadata name="lastmodifieddate">20240913</Metadata>
-    <Metadata name="oailastmodified">1726242853</Metadata>
-    <Metadata name="oailastmodifieddate">20240913</Metadata>
+    <Metadata name="oailastmodified">1727136626</Metadata>
+    <Metadata name="oailastmodifieddate">20240924</Metadata>
     <Metadata name="assocfilepath">HASH746e.dir</Metadata>
     <Metadata name="gsdlassocfile">bradd.webp:unknown:</Metadata>
   </Description>

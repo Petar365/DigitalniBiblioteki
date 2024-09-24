@@ -4,7 +4,104 @@
 	<FileSet>
 		<FileName>.*</FileName>
 		<Description>
-			<Metadata mode="accumulate" name="dc.Subject">Linkin Park | Albums | One More Light</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Linkin Park | Albums | 07 One More Light</Metadata>
+			<Metadata mode="accumulate" name="gs.usercomment">Petar Milchevski</Metadata>
+			<Metadata mode="accumulate" name="gs.Date">2017-05-19</Metadata>
+			<Metadata mode="accumulate" name="gs.Publisher">Warner Bros. Records</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">Larrabee</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">The Pool Recording Studio</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">Sphere</Metadata>
+			<Metadata mode="accumulate" name="gs.Studio">The WareHouse</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Mike Shinoda</Metadata>
+			<Metadata mode="accumulate" name="gs.Producer">Brad Delson</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>One More Light\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">1</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">One More Light</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>01 - Nobody Can Save Me\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">2</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Nobody Can Save Me</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>02 - Good Goodbye \(feat\. Pusha T and Stormzy\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">3</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Good Goodbye</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>03 - Talking to Myself\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">4</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Talking to Myself</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>04 - Battle Symphony\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">5</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Battle Symphony</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>05 - Invisible\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">6</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Invisible</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>06 - Heavy \(feat\. Kiiara\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">7</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Heavy</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>07 - Sorry for Now\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Sorry for Now</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>08 - Halfway Right\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">9</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Halfwat Right</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>09 - One More Light\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">10</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">One More Light</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>10 - Sharp Edges\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="gs.FolderOrder">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Order">11</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Sharp Edges</Metadata>
 		</Description>
 	</FileSet>
 </DirectoryMetadata>
